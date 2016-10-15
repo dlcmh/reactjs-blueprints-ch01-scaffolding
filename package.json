@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-blueprints-ch01-scaffolding",
+  "version": "1.0.0",
+  "description": "Based on the book <a href=\"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=reactjs+blueprints&tag=0a0-20\" rel=\"nofollow\">ReactJS Blueprints</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlcmh/reactjs-blueprints-ch01-scaffolding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlcmh/reactjs-blueprints-ch01-scaffolding/issues"
+  },
+  "homepage": "https://github.com/dlcmh/reactjs-blueprints-ch01-scaffolding#readme"
+}
