@@ -19,6 +19,11 @@ Install dependencies:
                        babel-preset-es2015@6.3.13 browserify@12.0.1 \
                        react-dom@0.14.3 watchify@3.6.1
 
+`.babelrc` file:
+
+    {
+      "presets": ["es2015","react"]
+    }
 
 Create a server file
 
