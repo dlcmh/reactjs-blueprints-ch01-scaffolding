@@ -1,6 +1,6 @@
 # ReactJS Blueprints - Chapter 1 - Scaffolding code
 
-Based on the book <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=reactjs+blueprints&tag=0a0-20" rel="nofollow">ReactJS Blueprints</a>
+Based on the book <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=reactjs+blueprints&tag=0a0-20" rel="nofollow">ReactJS Blueprints</a>, with improved code formatting and comments.
 
 Check the [commit history](https://github.com/dlcmh/reactjs-blueprints-ch01-scaffolding/commits/master) for the code sections that correspond to the development workflow steps below
 
@@ -25,7 +25,8 @@ Install dependencies:
       "presets": ["es2015","react"]
     }
 
-Create a server file
+
+Create the server file `server.js`
 
 
 Create a development directory
